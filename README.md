@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+GitHub PGP key (signed-only): [0x0069111211111121](https://github.com/ciallowo.gpg)
 <!--
 **ciallowo/ciallowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
